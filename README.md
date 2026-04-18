@@ -2,7 +2,7 @@
          
 <p align="center"><b> Welcome to My GitHub </b></p>
 Socials
-
+--- *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* --- 
 <p align="left"> <a href="https://github.com/MrAmazingFreelancer]()" target="_blank" rel="noreferrer"> <picture>
   
 <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="" /> <img src="" width="32" height="32" /> </picture> </a> 
