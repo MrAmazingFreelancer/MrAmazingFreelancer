@@ -2,7 +2,7 @@
          
 <p align="center"><b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Welcome+to+My+GitHub" alt="Typing SVG" /></a></b></p>
 
-<p align="center">--- *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* --- </p>
+<p align="center">-- *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* -- </p>
 
 <br />
 <br />
